@@ -1,11 +1,8 @@
-# Docker Pipeline Demo
+# docker-pipeline-demo
 
-Python application containerized with Docker.
+This is a simple Python Flask application that is containerized using Docker.
 
-## Prerequisites
-- Docker installed
-- Git (optional)
+## Build Docker Image
 
-## Build the Docker Image
 ```bash
-docker build -t python-app .
+docker build -t python-docker-demo .
