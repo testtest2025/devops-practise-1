@@ -1,0 +1,6 @@
+# docker-pipeline-demo-chart/Chart.yaml
+apiVersion: v2
+name: docker-pipeline-demo
+description: A Helm chart for deploying a Dockerized app
+version: 0.1.0
+appVersion: "1.0.0"
